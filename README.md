@@ -18,7 +18,7 @@
 
 
 
-  最后的结果，放张图：
+  最后的结果，放张图：(爬下了大概2个g的图片，后来发现因为没做去重处理，所以有一些重复的图片)
   --------------------
   
 ![如图 打码不易 简单粗暴](https://github.com/HELL-TO-HEAVEN/crawl-pornography-/blob/master/renti3png.png)
